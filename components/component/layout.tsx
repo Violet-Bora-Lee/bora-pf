@@ -29,7 +29,7 @@ export function Layout() {
       <header className="px-4 lg:px-6 h-14 flex items-center bg-gray-900 text-white">
         <Link className="flex items-center justify-center" href="#">
           <PaletteIcon className="h-6 w-6" />
-          <span className="sr-only">Jane Doe's Portfolio</span>
+          <span className="sr-only">Jane Doe&apos;s Portfolio</span>
         </Link>
         <nav className="ml-auto flex gap-4 sm:gap-6">
           <Link className="text-sm font-medium hover:underline underline-offset-4" href="#">
@@ -129,7 +129,7 @@ export function Layout() {
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Featured Projects</h2>
                 <p className="max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-                  Explore a selection of Jane Doe's most captivating design projects.
+                  Explore a selection of Jane Doe&apos;s most captivating design projects.
                 </p>
               </div>
             </div>
@@ -189,7 +189,7 @@ export function Layout() {
             <div className="space-y-3">
               <h2 className="text-3xl font-bold tracking-tighter md:text-4xl/tight">Get in Touch</h2>
               <p className="mx-auto max-w-[600px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-                Have a project in mind? Let's discuss how I can help bring your vision to life.
+                Have a project in mind? Let&apos;s discuss how I can help bring your vision to life.
               </p>
             </div>
             <div className="mx-auto w-full max-w-sm space-y-2">
